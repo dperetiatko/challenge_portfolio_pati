@@ -9,3 +9,11 @@ Right now I feel like I want to grow my expertise in automation and python is a 
 Also, I beleive I could earn more money doing automation.
 
 I feel very excited to be here and participate in the challnge.
+
+
+
+TASK 2: selectors
+
+//*[@id="login"]
+//*[@id="password"]
+//*[@id="__next"]/form/div/div[2]/button/span[1]
